@@ -1,11 +1,5 @@
 # Yavoy
 
-## Project Overview
+## Project Documentation
 
-This project aims to ... 
-
-## Setup Instructions
-
-1. Clone the repository
-2. Install dependencies
-3. Run the application
+Here you can add details about your project, its purpose, and how to use it.
